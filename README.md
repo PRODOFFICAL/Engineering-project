@@ -33,8 +33,9 @@ Expected Experience 
 
 
 Requirements 
+
 -Use of Deploy Only in Arduino IDE
---OR Use of Visual Studio Code or Clion with Arduino Back Send Enabled  
+-OR Use of Visual Studio Code or Clion with Arduino Back Send Enabled  
 
 - Properly Wired Mechine
 - 
