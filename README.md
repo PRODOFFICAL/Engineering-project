@@ -2,7 +2,7 @@
 This code is meant to replicate and make a home  made version of a luck o meter
 
 
-This Project Uses A Aurdiwino R3 UNO,Lcd Display, A Potientometer, A Breadboard, And Two Buttons 
+This Project Uses A Aurdiwino R3 UNO,Lcd Display, A Potientometer, A Breadboard, And Three Buttons 
 
 
 
@@ -15,7 +15,16 @@ The LCD and potienmeter is wired like this
 
 
 The Buttons are wired like this 
+- One for reset (To Zero the Display)
+- Two for Active Usage
 
 
 
 This is the Total Project CODE 
+
+
+
+Expected Experience 
+- The User Turns On The Mechine
+- The Mechine Greets The User ON_ENABLE
+- The Mechine Gets In To A "Play" State 
