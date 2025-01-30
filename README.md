@@ -1,9 +1,9 @@
-# Engineering-project-
+t# Engineering-project-
 --Last Modified: 1/27 / 2025
 This code is meant to replicate and make a home  made version of a luck o meter
 
 
-This Project Uses A Aurdiwino R3 UNO,Lcd Display, A Potientometer, A Breadboard, And Three Buttons 
+This Project Uses A Aurdiwino R3 UNO,Lcd Display, A Potientometer, A Breadboard, A Green Led, A Red Led, And 2 Buttons
 
 
 
@@ -15,9 +15,13 @@ The LCD and potienmeter is wired like this
 
 
 
-The Buttons are wired like this 
+The buttons are wired like this 
 - One for reset (To Zero the Display)
-- Two for Active Usage
+- One for Active Usage
+
+The status leds are wired like this 
+- Both wired to a PWN Port
+![Screenshot 2025-01-30 135744 (1)](https://github.com/user-attachments/assets/33d2cfb9-9dd1-4964-bb00-b928e14d1b68)
 
 
 
@@ -36,10 +40,10 @@ Expected Experience 
 Requirements 
 
 -Use of Deploy Only in Arduino IDE
--OR Use of Visual Studio Code or Clion with Arduino Back Send Enabled  
+
+-OR Use of Visual Studio Code or Clion with Arduino Plugin
 
 - Properly Wired Mechine
-- 
 - A Bit Of Luck
 
 
