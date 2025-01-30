@@ -41,7 +41,7 @@ Requirements 
 
 -Use of Deploy Only in Arduino IDE
 
--OR Use of Visual Studio Code or Clion with Arduino Back Send Enabled  
+-OR Use of Visual Studio Code or Clion with Arduino Plugin
 
 - Properly Wired Mechine
 - A Bit Of Luck
