@@ -1,4 +1,4 @@
-# Engineering-project-
+t# Engineering-project-
 --Last Modified: 1/27 / 2025
 This code is meant to replicate and make a home  made version of a luck o meter
 
@@ -18,6 +18,8 @@ The LCD and potienmeter is wired like this
 The buttons are wired like this 
 - One for reset (To Zero the Display)
 - One for Active Usage
+![image](https://github.com/user-attachments/assets/04981a80-50d5-43b6-a261-04380e0edb72)
+
 
 The status leds are wired like this 
 - Both wired to a PWN Port
