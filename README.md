@@ -18,7 +18,7 @@ The LCD and potienmeter is wired like this
 The buttons are wired like this 
 - One for reset (To Zero the Display)
 - One for Active Usage
-![image](https://github.com/user-attachments/assets/04981a80-50d5-43b6-a261-04380e0edb72)
+<a href="https://imageresizer.com/" target="_blank">Image Resizer</a>
 
 
 The status leds are wired like this 
