@@ -21,7 +21,7 @@ The buttons are wired like this
 
 The status leds are wired like this 
 - Both wired to a PWN Port
-![Screenshot 2025-01-30 135744](https://github.com/user-attachments/assets/3ecc28db-d8cf-44dc-9505-701dd68722e8)
+![Screenshot 2025-01-30 135744 (1)](https://github.com/user-attachments/assets/33d2cfb9-9dd1-4964-bb00-b928e14d1b68)
 
 
 
