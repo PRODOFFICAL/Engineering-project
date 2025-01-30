@@ -43,7 +43,6 @@ Requirements 
 -OR Use of Visual Studio Code or Clion with Arduino Back Send Enabled  
 
 - Properly Wired Mechine
-- 
 - A Bit Of Luck
 
 
