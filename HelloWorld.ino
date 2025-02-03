@@ -4,7 +4,7 @@
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);
 const int buttonPin = 0;
 const int redLedPin = 3;
-const int greenLedPin = 1;
+const int greenLedPin = 5;
 
 void setup() {
   lcd.begin(16, 2);
@@ -83,6 +83,7 @@ void loop() {
 
 void animateRandomNumberDisplay(int number) {
   int animationSteps = 10;
+  lcd.clear();
 
   for (int i = 0; i <= animationSteps; i++) {
     int displayedNumber = random(0, 101);
