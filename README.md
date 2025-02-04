@@ -1,4 +1,4 @@
-t# Engineering-project-
+# Engineering-project-
 --Last Modified: 1/27 / 2025
 This code is meant to replicate and make a home  made version of a luck o meter
 
