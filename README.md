@@ -18,6 +18,9 @@ The LCD and potienmeter is wired like this
 The buttons are wired like this 
 - One for reset (To Zero the Display)
 - One for Active Usage
+![image](https://github.com/user-attachments/assets/ee3c47a7-5173-4103-9277-26ad53e2c1ad)
+
+
 
 The status leds are wired like this 
 - Both wired to a PWN Port
