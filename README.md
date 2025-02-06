@@ -19,7 +19,9 @@ The buttons are wired like this
 - One for reset (To Zero the Display)
 - One for Active Usage
 
-![image](https://github.com/user-attachments/assets/ee3c47a7-5173-4103-9277-26ad53e2c1ad)
+![image](https://github.com/user-attachments/assets/5e45355a-7cf7-4cbb-a8ae-3adfd3b5e2ff)
+
+
 
 
 
@@ -31,6 +33,11 @@ The status leds are wired like this
 
 This is the Total Project CODE 
 
+
+
+This is the total wiring diagram 
+
+![image](https://github.com/user-attachments/assets/ee3c47a7-5173-4103-9277-26ad53e2c1ad)
 
 
 
